@@ -1,3 +1,3 @@
 # flexbox-test
-* ![Flex Direction explanation](./Screenshot_1532424549.png)
-* ![Flex Direction explanation](./Screenshot_1532424560.png)
+* ![Flex image explanation](./Screenshot_1532425140.png.png)
+* ![Flex image explanation](./Screenshot_1532425146.png.png)
